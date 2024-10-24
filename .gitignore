@@ -1,0 +1,6 @@
+**/data/
+**/Pictures_temp/
+**/Pictures_test/
+**/Test/
+**/api_key.sh
+.DS_Store
